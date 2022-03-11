@@ -133,6 +133,12 @@ files:
     \ as ignored:\n            pass\n        return []\n\n\nif __name__ == '__main__':\n\
     \    DuplicateFileHandlerCheck().run_tests()\n"
   learner_created: false
+- name: 1/6140.pdf
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/176/stages/906/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 11 Mar 2022 07:41:56 UTC
 record: -1
